@@ -17,11 +17,14 @@
     "requirements.txt": {
       "checksum": "d0c570c8fb26c9af4ba4066846f3452e"
     },
+    ".gitignore": {
+      "checksum": "140a5c671ee97b3723686f6412818f0e"
+    },
     "README.md": {
       "checksum": "7dbeeb63593d0d22220f1a60d2f17b9e"
     },
     "app.py": {
-      "checksum": "ec123633a9eee1ae2d101d92fb0de5a0"
+      "checksum": "9fd21218d71ed0c710d6286fb20ba31d"
     }
   }
 }
