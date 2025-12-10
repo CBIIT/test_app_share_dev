@@ -27,9 +27,9 @@ app_ui = ui.page_sidebar(
             value="My Plot"
         )
     ),
-    ui.h2("Simple Shiny App in Python"),
+    ui.h2("Dante's Simple Shiny App in Python"),
     ui.output_plot("main_plot"),
-    ui.h4("Summary Statistics"),
+    ui.h4("Summary Statistics (if working)"),
     ui.output_table("summary_table")
 )
 
