@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "locale": "English_United States.1252",
+  "metadata": {
+    "appmode": "python-shiny",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.12.7",
+    "package_manager": {
+      "name": "pip",
+      "version": "25.3",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "d0c570c8fb26c9af4ba4066846f3452e"
+    },
+    "README.md": {
+      "checksum": "7dbeeb63593d0d22220f1a60d2f17b9e"
+    },
+    "app.py": {
+      "checksum": "ec123633a9eee1ae2d101d92fb0de5a0"
+    }
+  }
+}
